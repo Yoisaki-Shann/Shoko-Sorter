@@ -1,4 +1,4 @@
-# Shoko
+# Shoko -Sorter
 
 ## Underdevelopment  
 Shoko is library Management for Mihon app that was goal
